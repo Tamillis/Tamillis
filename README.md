@@ -6,7 +6,7 @@ This is a repository for the projects I share via git.
 
 Contact me via Github if you need to ask me something.
 
-Hej dao and saraba.
+Peace
 
 <!---
 Tamillis/Tamillis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

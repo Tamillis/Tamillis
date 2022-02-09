@@ -4,7 +4,7 @@ I'm Tamillis a.k.a. Bellaby
 
 This is a repository for the projects I share via git.
 
-Contact me via Github if you need to ask me something.
+Contact me via my website bellaby.freecluster.eu or here on Github if you need to ask me something.
 
 Peace
 

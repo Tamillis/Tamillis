@@ -1,10 +1,10 @@
 Salve me simis
 
-I'm Tamillis a.k.a. Bellaby
+I'm Peter Bellaby, a.k.a. Tamillis
 
 This is a repository for the projects I share via git.
 
-Contact me via my website bellaby.freecluster.eu or here on Github if you need to ask me something.
+Contact me via my website bellaby.co.uk or here on Github if you need to ask me something.
 
 Peace
 
